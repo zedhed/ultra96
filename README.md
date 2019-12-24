@@ -11,7 +11,7 @@ $ git clone http://github.com/zedhed/ultra96/
 
 ## Access the newly cloned Jupyter Notebooks
 
-http://*<YOURPYNQHOST>*:9090/notebooks/ultra96/
+http://**YOURPYNQHOST**:9090/notebooks/ultra96/
 
 
 ## PS MIO GPIO Control
